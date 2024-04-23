@@ -1,1 +1,1 @@
-# Smart-phone-analysis-using-data-analytics-and-generative-AI
+# Smart-phone-price-analysis-using-data-analytics-and-generative-AI
